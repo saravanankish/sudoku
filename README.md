@@ -7,7 +7,9 @@ The game is built fully using pygame.
 For solving the sudoku board backtracking algorithm for solving the board is used.
 
 HOT keys :-
-  Q - quit program
-  SPACE - confirm the selected operation
-  ESC - reject the selected operation
-  1 to 9 - To put the number in the selected cell of sudoku board
+  KEYS | FUNCTION
+  -----|----------
+  **Q** | quit program
+  **SPACE** | confirm the selected operation
+  **ESC** | reject the selected operation
+  **1 to 9** | To put the number in the selected cell of sudoku board
