@@ -13,3 +13,10 @@ HOT keys :-
   **SPACE** | confirm the selected operation
   **ESC** | reject the selected operation
   **1 to 9** | To put the number in the selected cell of sudoku board
+
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="images/sudoku.mp4" type="video/mp4">
+  </video>
+</figure>
